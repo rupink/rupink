@@ -9,4 +9,4 @@ I'm a 4th year student at the University of Toronto in my final year, Studying E
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupink&show_icons=true&locale=en" alt="rupink" /></p>
 
-![](https://komarev.com/ghpvc/?username=rupink)
+<!--![](https://komarev.com/ghpvc/?username=rupink)-->
